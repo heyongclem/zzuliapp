@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://218.28.10.71:8090/appdown/iosapp/image.57×57.jpg</string>
+					<string>http://218.28.10.71:8090/appdown/iosapp/image.57×57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://218.28.10.71:8090/appdown/iosapp/image.57×57.jpg</string>
+					<string>http://218.28.10.71:8090/appdown/iosapp/image.57×57.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
